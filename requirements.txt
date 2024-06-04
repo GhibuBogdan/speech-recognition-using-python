@@ -1,0 +1,5 @@
+https://pypi.org/project/SpeechRecognition/
+
+Python 2.6, 2.7, or 3.3+ 
+Speech Recognition: pip install SpeechRecognition
+PyAudio 0.2.11+: pip install pyaudio
